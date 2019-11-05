@@ -1,5 +1,5 @@
 ---
-author: std133519
+author:  std133519
 title: "Steve Jobs"
 image_url: /images/steve-jobs.jpg
 caption: "ήταν ο μέγας ευαγγελιστής της ψηφιακής εποχής"
